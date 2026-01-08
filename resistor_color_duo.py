@@ -15,7 +15,7 @@ def value(colors):
             
     return code
 
-#r = value(["brown", "black"])
-#print(r)
+r = value(["brown", "black"])
+print(r)
 r = value(["green", "brown", "orange"])
 print(r)
